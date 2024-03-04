@@ -1,6 +1,7 @@
-croissant-image {
+.croissant-image {
   max-width: 500px;
   display: block;
+  border-radius: 10px;
 }
 
 body {
