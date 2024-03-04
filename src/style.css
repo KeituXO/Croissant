@@ -1,4 +1,8 @@
-image {
+croissant-image {
   max-width: 500px;
   display: block;
+}
+
+body {
+  background-color: violet;
 }
